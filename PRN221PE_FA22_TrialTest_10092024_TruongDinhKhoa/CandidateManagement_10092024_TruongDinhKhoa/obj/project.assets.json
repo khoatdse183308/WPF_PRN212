@@ -2356,11 +2356,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa.csproj",
+      "projectUniqueName": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa.csproj",
       "projectName": "CandidateManagement_10092024_TruongDinhKhoa",
-      "projectPath": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa.csproj",
+      "projectPath": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa.csproj",
       "packagesPath": "C:\\Users\\MSI VN\\.nuget\\packages\\",
-      "outputPath": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa\\obj\\",
+      "outputPath": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2382,8 +2382,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_Services\\Candidate_Services.csproj": {
-              "projectPath": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_Services\\Candidate_Services.csproj"
+            "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_Services\\Candidate_Services.csproj": {
+              "projectPath": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_Services\\Candidate_Services.csproj"
             }
           }
         }

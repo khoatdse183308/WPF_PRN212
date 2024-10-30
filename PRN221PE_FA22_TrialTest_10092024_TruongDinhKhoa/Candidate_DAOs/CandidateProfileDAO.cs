@@ -44,23 +44,11 @@ namespace Candidate_DAOs
 
         public bool AddCandidateProfile(CandidateProfile candidateProfile)
         {
-            bool isSuccess = false;
-            CandidateProfile candidate = this.GetCandidateProfileById(candidateProfile.CandidateId);
-            try
+            if (GetCandidateProfileById(candidateProfile.CandidateId) != null)
             {
-                if (candidate == null)
-                {
-                    //context.CandidateProfiles.Add(candidateProfile);
-                    //context.SaveChanges();
-                    candidateProfileDAO.Add(candidateProfile);
-                    isSuccess = true;
-                }
+                return false;
             }
-            catch (Exception ex)
-            {
-                throw new Exception(ex.Message);
-            }
-            return isSuccess;
+            return candidateProfileDAO.Add(candidateProfile);
         }
 
         public bool DeleteCandidateProfile(String profileID)

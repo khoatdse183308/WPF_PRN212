@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Trb6wRn8j7g=",
+  "dgSpecHash": "Vf5Ug6GUr0c=",
   "success": true,
-  "projectFilePath": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj",
+  "projectFilePath": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MSI VN\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\MSI VN\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

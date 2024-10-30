@@ -1,33 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\",
+  "WorkspaceRootPath": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0FEC4324-2A9F-46F6-948A-B94230193E42}|CandidateManagement_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa.csproj|d:\\01_prn212\\prn221pe_fa22_trialtest_10092024_truongdinhkhoa\\candidatemanagement_10092024_truongdinhkhoa\\jobpostingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0FEC4324-2A9F-46F6-948A-B94230193E42}|CandidateManagement_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa.csproj|solutionrelative:candidatemanagement_10092024_truongdinhkhoa\\jobpostingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FEC4324-2A9F-46F6-948A-B94230193E42}|CandidateManagement_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa.csproj|d:\\01_prn212\\prn221pe_fa22_trialtest_10092024_truongdinhkhoa\\candidatemanagement_10092024_truongdinhkhoa\\candidateprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{0FEC4324-2A9F-46F6-948A-B94230193E42}|CandidateManagement_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa.csproj|d:\\01_prn212\\khoawpf\\wpf_prn212\\prn221pe_fa22_trialtest_10092024_truongdinhkhoa\\candidatemanagement_10092024_truongdinhkhoa\\candidateprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0FEC4324-2A9F-46F6-948A-B94230193E42}|CandidateManagement_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa.csproj|solutionrelative:candidatemanagement_10092024_truongdinhkhoa\\candidateprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FEC4324-2A9F-46F6-948A-B94230193E42}|CandidateManagement_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa.csproj|d:\\01_prn212\\prn221pe_fa22_trialtest_10092024_truongdinhkhoa\\candidatemanagement_10092024_truongdinhkhoa\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0FEC4324-2A9F-46F6-948A-B94230193E42}|CandidateManagement_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa.csproj|solutionrelative:candidatemanagement_10092024_truongdinhkhoa\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FEC4324-2A9F-46F6-948A-B94230193E42}|CandidateManagement_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa.csproj|d:\\01_prn212\\prn221pe_fa22_trialtest_10092024_truongdinhkhoa\\candidatemanagement_10092024_truongdinhkhoa\\candidateprofilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FEC4324-2A9F-46F6-948A-B94230193E42}|CandidateManagement_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa.csproj|solutionrelative:candidatemanagement_10092024_truongdinhkhoa\\candidateprofilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C257AFE-56F6-4F65-9E1D-CB27843EBEB4}|Candidate_DAOs\\Candidate_DAOs.csproj|d:\\01_prn212\\prn221pe_fa22_trialtest_10092024_truongdinhkhoa\\candidate_daos\\candidateprofiledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C257AFE-56F6-4F65-9E1D-CB27843EBEB4}|Candidate_DAOs\\Candidate_DAOs.csproj|d:\\01_prn212\\khoawpf\\wpf_prn212\\prn221pe_fa22_trialtest_10092024_truongdinhkhoa\\candidate_daos\\candidateprofiledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C257AFE-56F6-4F65-9E1D-CB27843EBEB4}|Candidate_DAOs\\Candidate_DAOs.csproj|solutionrelative:candidate_daos\\candidateprofiledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FEC4324-2A9F-46F6-948A-B94230193E42}|CandidateManagement_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa.csproj|d:\\01_prn212\\prn221pe_fa22_trialtest_10092024_truongdinhkhoa\\candidatemanagement_10092024_truongdinhkhoa\\jobpostingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C257AFE-56F6-4F65-9E1D-CB27843EBEB4}|Candidate_DAOs\\Candidate_DAOs.csproj|d:\\01_prn212\\khoawpf\\wpf_prn212\\prn221pe_fa22_trialtest_10092024_truongdinhkhoa\\candidate_daos\\genericdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C257AFE-56F6-4F65-9E1D-CB27843EBEB4}|Candidate_DAOs\\Candidate_DAOs.csproj|solutionrelative:candidate_daos\\genericdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEC4324-2A9F-46F6-948A-B94230193E42}|CandidateManagement_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa.csproj|d:\\01_prn212\\khoawpf\\wpf_prn212\\prn221pe_fa22_trialtest_10092024_truongdinhkhoa\\candidatemanagement_10092024_truongdinhkhoa\\jobpostingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FEC4324-2A9F-46F6-948A-B94230193E42}|CandidateManagement_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa.csproj|solutionrelative:candidatemanagement_10092024_truongdinhkhoa\\jobpostingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C257AFE-56F6-4F65-9E1D-CB27843EBEB4}|Candidate_DAOs\\Candidate_DAOs.csproj|d:\\01_prn212\\prn221pe_fa22_trialtest_10092024_truongdinhkhoa\\candidate_daos\\candidatemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FEC4324-2A9F-46F6-948A-B94230193E42}|CandidateManagement_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa.csproj|d:\\01_prn212\\khoawpf\\wpf_prn212\\prn221pe_fa22_trialtest_10092024_truongdinhkhoa\\candidatemanagement_10092024_truongdinhkhoa\\candidateprofilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEC4324-2A9F-46F6-948A-B94230193E42}|CandidateManagement_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa.csproj|solutionrelative:candidatemanagement_10092024_truongdinhkhoa\\candidateprofilewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C257AFE-56F6-4F65-9E1D-CB27843EBEB4}|Candidate_DAOs\\Candidate_DAOs.csproj|d:\\01_prn212\\khoawpf\\wpf_prn212\\prn221pe_fa22_trialtest_10092024_truongdinhkhoa\\candidate_daos\\candidatemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C257AFE-56F6-4F65-9E1D-CB27843EBEB4}|Candidate_DAOs\\Candidate_DAOs.csproj|solutionrelative:candidate_daos\\candidatemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,22 +43,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LoginWindow.xaml",
-              "DocumentMoniker": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa\\LoginWindow.xaml",
-              "RelativeDocumentMoniker": "CandidateManagement_10092024_TruongDinhKhoa\\LoginWindow.xaml",
-              "ToolTip": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa\\LoginWindow.xaml",
-              "RelativeToolTip": "CandidateManagement_10092024_TruongDinhKhoa\\LoginWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-30T07:52:35.162Z",
+              "Title": "GenericDAO.cs",
+              "DocumentMoniker": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_DAOs\\GenericDAO.cs",
+              "RelativeDocumentMoniker": "Candidate_DAOs\\GenericDAO.cs",
+              "ToolTip": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_DAOs\\GenericDAO.cs",
+              "RelativeToolTip": "Candidate_DAOs\\GenericDAO.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:55:52.736Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "JobPostingWindow.xaml.cs",
-              "DocumentMoniker": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa\\JobPostingWindow.xaml.cs",
+              "DocumentMoniker": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa\\JobPostingWindow.xaml.cs",
               "RelativeDocumentMoniker": "CandidateManagement_10092024_TruongDinhKhoa\\JobPostingWindow.xaml.cs",
-              "ToolTip": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa\\JobPostingWindow.xaml.cs",
+              "ToolTip": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa\\JobPostingWindow.xaml.cs",
               "RelativeToolTip": "CandidateManagement_10092024_TruongDinhKhoa\\JobPostingWindow.xaml.cs",
               "ViewState": "AgIAAF8AAAAAAAAAAAAswCQAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -71,11 +68,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CandidateProfileWindow.xaml",
-              "DocumentMoniker": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa\\CandidateProfileWindow.xaml",
+              "DocumentMoniker": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa\\CandidateProfileWindow.xaml",
               "RelativeDocumentMoniker": "CandidateManagement_10092024_TruongDinhKhoa\\CandidateProfileWindow.xaml",
-              "ToolTip": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa\\CandidateProfileWindow.xaml",
+              "ToolTip": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa\\CandidateProfileWindow.xaml",
               "RelativeToolTip": "CandidateManagement_10092024_TruongDinhKhoa\\CandidateProfileWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-30T03:38:25.085Z",
@@ -83,23 +80,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "JobPostingWindow.xaml",
-              "DocumentMoniker": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa\\JobPostingWindow.xaml",
-              "RelativeDocumentMoniker": "CandidateManagement_10092024_TruongDinhKhoa\\JobPostingWindow.xaml",
-              "ToolTip": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa\\JobPostingWindow.xaml",
-              "RelativeToolTip": "CandidateManagement_10092024_TruongDinhKhoa\\JobPostingWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-30T03:38:17.188Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "CandidateManagementContext.cs",
-              "DocumentMoniker": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_DAOs\\CandidateManagementContext.cs",
+              "DocumentMoniker": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_DAOs\\CandidateManagementContext.cs",
               "RelativeDocumentMoniker": "Candidate_DAOs\\CandidateManagementContext.cs",
-              "ToolTip": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_DAOs\\CandidateManagementContext.cs",
+              "ToolTip": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_DAOs\\CandidateManagementContext.cs",
               "RelativeToolTip": "Candidate_DAOs\\CandidateManagementContext.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -107,29 +92,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "CandidateProfileDAO.cs",
-              "DocumentMoniker": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_DAOs\\CandidateProfileDAO.cs",
+              "DocumentMoniker": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_DAOs\\CandidateProfileDAO.cs",
               "RelativeDocumentMoniker": "Candidate_DAOs\\CandidateProfileDAO.cs",
-              "ToolTip": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_DAOs\\CandidateProfileDAO.cs",
+              "ToolTip": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_DAOs\\CandidateProfileDAO.cs",
               "RelativeToolTip": "Candidate_DAOs\\CandidateProfileDAO.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAAwF0AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAwDIAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T03:06:57.085Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CandidateProfileWindow.xaml.cs",
-              "DocumentMoniker": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa\\CandidateProfileWindow.xaml.cs",
+              "DocumentMoniker": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa\\CandidateProfileWindow.xaml.cs",
               "RelativeDocumentMoniker": "CandidateManagement_10092024_TruongDinhKhoa\\CandidateProfileWindow.xaml.cs",
-              "ToolTip": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa\\CandidateProfileWindow.xaml.cs",
+              "ToolTip": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa\\CandidateProfileWindow.xaml.cs",
               "RelativeToolTip": "CandidateManagement_10092024_TruongDinhKhoa\\CandidateProfileWindow.xaml.cs",
               "ViewState": "AgIAAJ8AAAAAAAAAAAAUwLkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T02:48:31.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T02:48:31.111Z"
             }
           ]
         }

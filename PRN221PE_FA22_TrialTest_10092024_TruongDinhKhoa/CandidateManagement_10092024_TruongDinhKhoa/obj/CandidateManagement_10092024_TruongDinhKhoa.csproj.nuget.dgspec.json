@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa.csproj": {}
+    "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa.csproj": {}
   },
   "projects": {
-    "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa.csproj": {
+    "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa.csproj",
+        "projectUniqueName": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa.csproj",
         "projectName": "CandidateManagement_10092024_TruongDinhKhoa",
-        "projectPath": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa.csproj",
+        "projectPath": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa.csproj",
         "packagesPath": "C:\\Users\\MSI VN\\.nuget\\packages\\",
-        "outputPath": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa\\obj\\",
+        "outputPath": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\CandidateManagement_10092024_TruongDinhKhoa\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_Services\\Candidate_Services.csproj": {
-                "projectPath": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_Services\\Candidate_Services.csproj"
+              "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_Services\\Candidate_Services.csproj": {
+                "projectPath": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_Services\\Candidate_Services.csproj"
               }
             }
           }
@@ -94,14 +94,14 @@
         }
       }
     },
-    "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj": {
+    "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj",
+        "projectUniqueName": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj",
         "projectName": "Candidate_BusinessObjects",
-        "projectPath": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj",
+        "projectPath": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj",
         "packagesPath": "C:\\Users\\MSI VN\\.nuget\\packages\\",
-        "outputPath": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_BusinessObjects\\obj\\",
+        "outputPath": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_BusinessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -191,14 +191,14 @@
         }
       }
     },
-    "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_DAOs\\Candidate_DAOs.csproj": {
+    "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_DAOs\\Candidate_DAOs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_DAOs\\Candidate_DAOs.csproj",
+        "projectUniqueName": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_DAOs\\Candidate_DAOs.csproj",
         "projectName": "Candidate_DAOs",
-        "projectPath": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_DAOs\\Candidate_DAOs.csproj",
+        "projectPath": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_DAOs\\Candidate_DAOs.csproj",
         "packagesPath": "C:\\Users\\MSI VN\\.nuget\\packages\\",
-        "outputPath": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_DAOs\\obj\\",
+        "outputPath": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_DAOs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -220,8 +220,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj": {
-                "projectPath": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj"
+              "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj": {
+                "projectPath": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj"
               }
             }
           }
@@ -280,14 +280,14 @@
         }
       }
     },
-    "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_Repository\\Candidate_Repository.csproj": {
+    "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_Repository\\Candidate_Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_Repository\\Candidate_Repository.csproj",
+        "projectUniqueName": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_Repository\\Candidate_Repository.csproj",
         "projectName": "Candidate_Repository",
-        "projectPath": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_Repository\\Candidate_Repository.csproj",
+        "projectPath": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_Repository\\Candidate_Repository.csproj",
         "packagesPath": "C:\\Users\\MSI VN\\.nuget\\packages\\",
-        "outputPath": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_Repository\\obj\\",
+        "outputPath": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -309,8 +309,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_DAOs\\Candidate_DAOs.csproj": {
-                "projectPath": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_DAOs\\Candidate_DAOs.csproj"
+              "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_DAOs\\Candidate_DAOs.csproj": {
+                "projectPath": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_DAOs\\Candidate_DAOs.csproj"
               }
             }
           }
@@ -363,14 +363,14 @@
         }
       }
     },
-    "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_Services\\Candidate_Services.csproj": {
+    "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_Services\\Candidate_Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_Services\\Candidate_Services.csproj",
+        "projectUniqueName": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_Services\\Candidate_Services.csproj",
         "projectName": "Candidate_Services",
-        "projectPath": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_Services\\Candidate_Services.csproj",
+        "projectPath": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_Services\\Candidate_Services.csproj",
         "packagesPath": "C:\\Users\\MSI VN\\.nuget\\packages\\",
-        "outputPath": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_Services\\obj\\",
+        "outputPath": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -392,8 +392,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_Repository\\Candidate_Repository.csproj": {
-                "projectPath": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_Repository\\Candidate_Repository.csproj"
+              "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_Repository\\Candidate_Repository.csproj": {
+                "projectPath": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_Repository\\Candidate_Repository.csproj"
               }
             }
           }

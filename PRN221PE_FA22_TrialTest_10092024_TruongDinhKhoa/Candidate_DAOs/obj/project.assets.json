@@ -2302,11 +2302,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_DAOs\\Candidate_DAOs.csproj",
+      "projectUniqueName": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_DAOs\\Candidate_DAOs.csproj",
       "projectName": "Candidate_DAOs",
-      "projectPath": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_DAOs\\Candidate_DAOs.csproj",
+      "projectPath": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_DAOs\\Candidate_DAOs.csproj",
       "packagesPath": "C:\\Users\\MSI VN\\.nuget\\packages\\",
-      "outputPath": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_DAOs\\obj\\",
+      "outputPath": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_DAOs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2328,8 +2328,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj": {
-              "projectPath": "D:\\01_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj"
+            "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj": {
+              "projectPath": "D:\\01_PRN212\\khoaWPF\\WPF_PRN212\\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj"
             }
           }
         }

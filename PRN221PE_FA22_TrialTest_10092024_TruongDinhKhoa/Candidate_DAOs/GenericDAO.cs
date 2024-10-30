@@ -29,10 +29,19 @@ namespace Candidate_DAOs
             return _dbSet.Find(id);
         }
 
-        public void Add(T entity)
+        public bool Add(T entity)
         {
-            _dbSet.Add(entity);
-            _context.SaveChanges();
+            try
+            {
+                _dbSet.Add(entity);
+                bool isSuccess = _context.SaveChanges() > 0;
+                _context.Entry(entity).State = EntityState.Detached;
+                return isSuccess;
+            }
+            catch (Exception ex)
+            {
+                return false;
+            }
         }
         public bool Update(T entity)
         {
