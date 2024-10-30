@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CandidateManagement_10092024_TruongDinhKhoa_ttegxoa2_wpftmp
+build_property.ProjectDir = D:\01_PRN212\PRN221PE_FA22_TrialTest_10092024_TruongDinhKhoa\CandidateManagement_10092024_TruongDinhKhoa\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
