@@ -42,21 +42,11 @@ namespace Candidate_DAOs
 
         public bool AddJobPosting(JobPosting jobPosting)
         {
-            bool isSuccess = false;
-            JobPosting jobPosting1 = this.GetJobPostingByID(jobPosting.PostingId);
-            try
+            if (GetJobPostingByID(jobPosting.PostingId) != null)
             {
-                if (jobPosting1 == null)
-                {
-                    jobPostingDAO.Add(jobPosting);
-                    isSuccess = true;
-                }
+                return false;
             }
-            catch (Exception ex)
-            {
-                throw new Exception(ex.Message);
-            }
-            return isSuccess;
+            return jobPostingDAO.Add(jobPosting); 
         }
 
         public bool DeleteJobPosting(string jobPostingID)
@@ -80,22 +70,11 @@ namespace Candidate_DAOs
 
         public bool UpdateJobPosting(JobPosting jobPosting)
         {
-            bool isSuccess = false;
-            JobPosting jobPosting1 = this.GetJobPostingByID(jobPosting.PostingId);
-
-            try
+            if (GetJobPostingByID(jobPosting.PostingId) == null)
             {
-                if (jobPosting1 != null)
-                {
-                    jobPostingDAO.Update(jobPosting);
-                    isSuccess = true;
-                }
+                return false;
             }
-            catch (Exception ex)
-            {
-                throw new Exception(ex.Message);
-            }
-            return isSuccess;
+            return jobPostingDAO.Update(jobPosting);
         }
 
     }

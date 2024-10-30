@@ -83,11 +83,13 @@ namespace CandidateManagement_10092024_TruongDinhKhoa
 
         private void btnAdd_Click(object sender, RoutedEventArgs e)
         {
-            //if (string.IsNullOrWhiteSpace(txtCandidateID.Text) || string.IsNullOrWhiteSpace(txtBirthday.Text) || string.IsNullOrWhiteSpace(txtDescription.Text)
-            //   || string.IsNullOrWhiteSpace(txtFullName.Text) || string.IsNullOrWhiteSpace(txtProfileURL.Text) || cmbPostingID.SelectedValue == null)
-            //{
-            //    MessageBox.Show("All box are required !! ", "All box are required", MessageBoxButton.OK, MessageBoxImage.Exclamation);
-            //}
+            if (string.IsNullOrWhiteSpace(txtCandidateID.Text) || string.IsNullOrWhiteSpace(txtFullName.Text) ||
+                string.IsNullOrWhiteSpace(txtBirthday.Text) || string.IsNullOrWhiteSpace(txtProfileURL.Text) ||
+                cmbPostingID.SelectedValue == null || string.IsNullOrWhiteSpace(txtDescription.Text))
+            {
+                MessageBox.Show("All fields are required!");
+                return;
+            }
             CandidateProfile candidate = new CandidateProfile();
             candidate.CandidateId = txtCandidateID.Text;
             candidate.Fullname = txtFullName.Text;
@@ -164,10 +166,12 @@ namespace CandidateManagement_10092024_TruongDinhKhoa
 
         private void btnUpdate_Click(object sender, RoutedEventArgs e)
         {
-            if (string.IsNullOrWhiteSpace(txtCandidateID.Text) || string.IsNullOrWhiteSpace(txtBirthday.Text) || string.IsNullOrWhiteSpace(txtDescription.Text)
-    || string.IsNullOrWhiteSpace(txtFullName.Text) || string.IsNullOrWhiteSpace(txtProfileURL.Text) || cmbPostingID.SelectedValue == null)
+            if (string.IsNullOrWhiteSpace(txtCandidateID.Text) || string.IsNullOrWhiteSpace(txtFullName.Text) ||
+                string.IsNullOrWhiteSpace(txtBirthday.Text) || string.IsNullOrWhiteSpace(txtProfileURL.Text) ||
+                cmbPostingID.SelectedValue == null || string.IsNullOrWhiteSpace(txtDescription.Text))
             {
-                MessageBox.Show("All box are required !! ", "All box are required", MessageBoxButton.OK, MessageBoxImage.Exclamation);
+                MessageBox.Show("All fields are required!");
+                return;
             }
             CandidateProfile candidate = new CandidateProfile();
             candidate.CandidateId = txtCandidateID.Text;

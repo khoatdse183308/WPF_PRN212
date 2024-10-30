@@ -34,7 +34,7 @@ namespace CandidateManagement_10092024_TruongDinhKhoa
             txtPostingID.Text = "";
             txtJobPostingTitle.Text = "";
             txtDescription.Text = "";
-            txtPostedDate.SelectedDate = null ;
+            txtPostedDate.SelectedDate = null;
         }
         private void DtgJobPosting_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
@@ -65,6 +65,11 @@ namespace CandidateManagement_10092024_TruongDinhKhoa
 
         private void BtnAdd_Click(object sender, RoutedEventArgs e)
         {
+            if (string.IsNullOrWhiteSpace(txtPostingID.Text) || string.IsNullOrWhiteSpace(txtJobPostingTitle.Text) || string.IsNullOrWhiteSpace(txtDescription.Text) || string.IsNullOrWhiteSpace(txtPostedDate.Text))
+            {
+                MessageBox.Show("All fields are required!!");
+                    return;
+            }
             JobPosting jobPosting = new JobPosting();
             jobPosting.PostingId = txtPostingID.Text;
             jobPosting.JobPostingTitle = txtJobPostingTitle.Text;
@@ -88,7 +93,8 @@ namespace CandidateManagement_10092024_TruongDinhKhoa
             {
                 MessageBox.Show($"Delete {jobPostingID} successfull ");
                 loadInit();
-            } else
+            }
+            else
             {
                 MessageBox.Show($"Delete {jobPostingID} unsuccessfull!!!!!! ");
             }
